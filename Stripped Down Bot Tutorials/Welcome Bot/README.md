@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/79745507/148041403-b807d1df-66b2-446a-b6cb-bdd150f487a4.png)
+# ![image](https://cdn.discordapp.com/attachments/838700484185292820/927961936883236864/unknown.png)
 
 # 👋 Welcome Bot 👋
 # Index Of Contents
