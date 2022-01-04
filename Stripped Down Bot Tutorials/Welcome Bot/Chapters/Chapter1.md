@@ -21,7 +21,7 @@ To run your bot, assuming your terminal is in the folder where the bot is locate
 
 That is all for this chapter!
 
-# Next Chapter: [Click Me](https://github.com/TheCrazyCatKidz/Welcome-Bot/blob/main/Chapters/Chapter2.md)
+# Next Chapter: [Click Me](https://github.com/PS-XYZ-Developement/Directory/blob/main/Stripped%20Down%20Bot%20Tutorials/Welcome%20Bot/Chapters/Chapter2.md)
 
 Made for the purpose of [PS.XYZ](https://platservices.xyz).
 
