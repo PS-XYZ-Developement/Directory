@@ -51,7 +51,7 @@ If it starts up and crashes, this means one of the following:
 
 That is all for this chapter!
 
-# Next Chapter: [Click Me](https://github.com/TheCrazyCatKidz/Welcome-Bot/blob/main/Chapters/Chapter3.md)
+# Next Chapter: [Click Me](https://github.com/PS-XYZ-Developement/Directory/blob/main/Stripped%20Down%20Bot%20Tutorials/Welcome%20Bot/Chapters/Chapter3.md)
    
 Made for the purpose of [PS.XYZ](https://platservices.xyz).
 
