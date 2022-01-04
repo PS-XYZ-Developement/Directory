@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/79745507/148041118-591266f3-257a-4283-a4ff-d5735c70a11b.png)                                                 
+# ![image](https://cdn.discordapp.com/attachments/838700484185292820/927961936883236864/unknown.png)                                                 
 # PS.XYZ Directory of Projects
 
 Use this to get to our projects.
