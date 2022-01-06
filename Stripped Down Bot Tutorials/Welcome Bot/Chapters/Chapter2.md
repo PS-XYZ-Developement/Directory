@@ -1,6 +1,6 @@
 # Chapter 2 - De-cluttering your stripped down bot
 
-Welcome to Chapter 1!
+Welcome to Chapter 2!
 This is where we will teach you how to get rid of those startup inputs for your token, guild id, client id and welcome channel.
 
 # Step 1: Open your text editor of choice
