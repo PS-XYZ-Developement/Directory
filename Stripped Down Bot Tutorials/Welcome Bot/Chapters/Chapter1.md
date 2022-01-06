@@ -1,5 +1,8 @@
 # Chapter 1 - Setting up your stripped down bot
 
+Welcome to Chapter 1!
+This is where we will teach you how to run your stripped down welcome bot.
+
 # Step 1: Download your .zip file
 
 To download your .zip file head to the main centre of this repo, click on **DOWNLOAD ME.zip** then click the **Download** button or use this hyperlink [here](https://github.com/TheCrazyCatKidz/Welcome-Bot/raw/main/DOWNLOAD%20ME.zip).
