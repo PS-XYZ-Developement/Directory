@@ -109,7 +109,7 @@ As an example you could do this:
 
 That is all for this chapter!
 
-# Next Chapter: [Click Me](https://github.com/PS-XYZ-Developement/Directory/blob/main/Stripped%20Down%20Bot%20Tutorials/Welcome%20Bot/Chapters/Chapter4.md)
+# Next Chapter: [Click Me](https://github.com/PS-XYZ-Developement/Directory/blob/main/Stripped%20Down%20Bot%20Tutorials/Welcome%20Bot/Chapters/Chapter%204.md)
 
 Made for the purpose of [PS.XYZ](https://platservices.xyz).
 
