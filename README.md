@@ -2,7 +2,7 @@
 # PS.XYZ Directory of Projects
 
 # Other Bots we made
-[**Click this hyperlink to view bots under the ownership of PS.XYZ**](https://github.com/PS-XYZ-Developement/Directory/blob/main/Tutorial.md)
+[**Click this hyperlink to view bots under the ownership of PS.XYZ**](https://github.com/PS-XYZ-Developement/Directory/blob/main/Projects.md)
 
 # Tutorials we made
 [**Click this hyperlink to view tutorials we made under PS.XYZ**](https://github.com/PS-XYZ-Developement/Directory/tree/main/Stripped%20Down%20Bot%20Tutorials)
