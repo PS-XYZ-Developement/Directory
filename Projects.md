@@ -5,4 +5,6 @@
 
 [**PenguinBot Discord Moderation**](https://penguin.platservices.xyz/)
 
+[**Naectr**](https://naectr.platservices.xyz)
+
 # Return to the [Main Menu](https://github.com/PS-XYZ-Developement/Directory)
